@@ -14,4 +14,8 @@ Django on Python does well in agile web development. Python is dynamic programmi
 
 https://www.researchgate.net/publication/271547188_A_Method_of_Optimizing_Django_Based_on_Greedy_Strategy
 
+https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/
+
+
+
 
